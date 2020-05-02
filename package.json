@@ -1,0 +1,17 @@
+{
+	"name": "mongo-plus-atlas-boilerplate-connection",
+	"version": "0.0.0",
+	"description": "MongoDB Boilerplate",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"mongodb": "^3.3.3",
+		"mongoose": "^5.7.7"
+	},
+	"engines": {
+		"node": "10.17.0"
+	},
+	"license": "MIT"
+}
